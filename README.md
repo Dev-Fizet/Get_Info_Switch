@@ -46,8 +46,9 @@ Esta utilidad permite:
 
 1. Clona el repositorio:
 
+
 ```bash
-git clone https://github.com/tuusuario/L2NeighborFinder.git
+git clone https://github.com/Dev-Fizet/Get_Info_Switch.git
 cd L2NeighborFinder
 ```
 
